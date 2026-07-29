@@ -1,2 +1,9 @@
 # Alfa98
-Sistema persona de Jefferson Bone
+Objetivo:
+Convertir este repositorio en mi sistema personal para:
+• Aprender
+• Organizar mi vida
+• Programar
+• Automatizar tareas
+• Crear un portafolio profesional
+• Mejorar mis habitos
