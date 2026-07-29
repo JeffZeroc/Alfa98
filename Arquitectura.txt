@@ -1,0 +1,13 @@
+Frontend
+
+Backend
+
+Base de datos
+
+API
+
+IA
+
+Docker
+
+Testing
