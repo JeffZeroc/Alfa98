@@ -88,13 +88,15 @@ Realizar el mockups visual del portafolio
 Crear la base de la extructura HTML
 
 ## Fecha 5/08/2026
-# Tiempo de trabajo: 
+# Tiempo de trabajo: 30 minutos
 
 # Objetivo:
-
+Crear estructura html base
 
 # Resultado:
-
+* Creacion de carpetas, assets, icons, images, logo, css y js
+* Creacion de archivos index.html, main.js, style.css y README.md
+* Creacion de estructura de index.htlm, style.css y main.js
 
 # Proximo objetivo:
 

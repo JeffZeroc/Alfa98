@@ -9,7 +9,7 @@
 - [x] Definir requisitos
 - [x] Diseñar interfaz
 - [x] Diseñar mockups visual
-- [ ] Crear estructura HTML
+- [x] Crear estructura HTML
 - [ ] Agregar estilos
 - [ ] Agregar JavaScript
 - [ ] Publicar
