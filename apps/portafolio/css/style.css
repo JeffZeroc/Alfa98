@@ -1,4 +1,43 @@
-/* ===== RESET ===== */
+/* ===========================
+   VARIABLES
+=========================== */
+
+:root{
+    --primary:#6366F1;
+    --background:#F8FAFC;
+    --text:#0F172A;
+    --text-light:#64748B;
+    --border:#E2E8F0;
+    --container:1200px;
+    --radius:12px;
+    --shadow:0 5px 20px rgba(0,0,0,.08);
+    --transition:.3s ease;
+}
+
+/* ===========================
+   RESET
+=========================== */
+img{
+
+    display:block;
+
+    max-width:100%;
+
+}
+
+a{
+
+    text-decoration:none;
+
+    color:inherit;
+
+}
+
+ul{
+
+    list-style:none;
+
+}
 
 *{
     margin:0;
@@ -11,5 +50,106 @@ html{
 }
 
 body{
+    font-family: "Inter", sans-serif;
+
+    background: var(--background);
+
+    color: var(--text);
+
+    line-height: 1.6;
+}
+
+/* ===========================
+   UTILIDADES
+=========================== */
+
+.container{
+    /* Tamaño */
+    width:90%;
+    max-width:var(--container);
+    /* Espaciado */
+    margin:auto;
+}
+
+/* ===========================
+   HEADER
+=========================== */
+header{
+
+    background:white;
+
+    box-shadow:var(--shadow);
 
 }
+
+/* ===========================
+   NAVBAR
+=========================== */
+.navbar{
+
+    /* Display */
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    /* Tamaño */
+
+    height:80px;
+
+    /* Espaciado */
+
+    padding:0 2rem;
+
+    /* Apariencia */
+
+    background:white;
+
+
+}
+.nav-links{
+
+    display:flex;
+
+    gap:2rem;
+
+    align-items:center;
+
+}
+
+.nav-links a{
+
+    transition:var(--transition);
+
+}
+.nav-links a:hover{
+
+    color:var(--primary);
+
+}
+
+.btn-github{
+
+    padding:.7rem 1.3rem;
+
+    background:var(--primary);
+
+    color:white;
+
+    border-radius:var(--radius);
+
+}
+
+.btn-github:hover{
+
+    transform: translateY(-2px);
+    box-shadow: var(--shadow);
+    opacity:.9;
+
+}
+
+/* ===========================
+   HERO
+=========================== */

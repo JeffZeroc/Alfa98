@@ -10,6 +10,17 @@
 - [x] Diseñar interfaz
 - [x] Diseñar mockups visual
 - [x] Crear estructura HTML
+    - [x] Navbar 
+    - [ ] Hero
+    - [ ] Sobre mi
+    - [ ] Habilidades
+    - [ ] Tecnologias
+    - [ ] Proyectos
+    - [ ] Alfa98
+    - [ ] Contacto
+    - [ ] Footer
+    - [ ] Responsive
+    - [ ] Publicacion
 - [ ] Agregar estilos
 - [ ] Agregar JavaScript
 - [ ] Publicar

@@ -99,14 +99,30 @@ Crear estructura html base
 * Creacion de estructura de index.htlm, style.css y main.js
 
 # Proximo objetivo:
+Construir un Navbar limpio, semantico y alineado con el mockup
 
-## Fecha 
+## Fecha 6/08/2026
+# Tiempo de trabajo: 75 minutos
+
+# Objetivo:
+Contruir un Navbar alineado con el mockup
+
+# Resultado:
+* Implementación completa del Navbar.
+* Organización inicial del CSS.
+* Definición de variables globales.
+* Integración de la fuente Inter.
+* Base visual del portafolio finalizada.
+
+# Proximo objetivo:
+Construir Hero alineado con el mockup
+
+## Fecha 6/08/2026
 # Tiempo de trabajo: 
 
 # Objetivo:
 
 
 # Resultado:
-
 
 # Proximo objetivo:
