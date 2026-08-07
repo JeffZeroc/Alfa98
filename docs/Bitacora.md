@@ -117,7 +117,20 @@ Contruir un Navbar alineado con el mockup
 # Proximo objetivo:
 Construir Hero alineado con el mockup
 
-## Fecha 6/08/2026
+## Fecha 07/08/2026
+# Tiempo de trabajo: ??
+
+# Objetivo:
+Construir Hero alineado al bakcup
+
+# Resultado:
+* Implementación completa del Hero
+* Organización del CSS de Hero
+
+# Proximo objetivo:
+Implementacion Sobre mi alineado con el mockup
+
+## Fecha 
 # Tiempo de trabajo: 
 
 # Objetivo:

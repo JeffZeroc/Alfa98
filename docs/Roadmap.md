@@ -11,7 +11,7 @@
 - [x] Diseñar mockups visual
 - [x] Crear estructura HTML
     - [x] Navbar 
-    - [ ] Hero
+    - [x] Hero
     - [ ] Sobre mi
     - [ ] Habilidades
     - [ ] Tecnologias
