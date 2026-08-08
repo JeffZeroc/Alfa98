@@ -12,7 +12,7 @@
 - [x] Crear estructura HTML
     - [x] Navbar 
     - [x] Hero
-    - [ ] Sobre mi
+    - [x] Sobre mi
     - [ ] Habilidades
     - [ ] Tecnologias
     - [ ] Proyectos

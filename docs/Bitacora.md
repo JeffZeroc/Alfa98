@@ -118,7 +118,7 @@ Contruir un Navbar alineado con el mockup
 Construir Hero alineado con el mockup
 
 ## Fecha 07/08/2026
-# Tiempo de trabajo: ??
+# Tiempo de trabajo: 65 minutos
 
 # Objetivo:
 Construir Hero alineado al bakcup
@@ -130,6 +130,19 @@ Construir Hero alineado al bakcup
 # Proximo objetivo:
 Implementacion Sobre mi alineado con el mockup
 
+## Fecha 08/08/2026
+# Tiempo de trabajo: 
+
+# Objetivo:
+Creación sobre mi en alineamiento con el mockup
+
+# Resultado:
+* Implementacion completa de la seccion "Sobre mi"
+* Organizacion del CSS About
+
+# Proximo objetivo:
+Implementacion de Habilidades alineado al mockup
+
 ## Fecha 
 # Tiempo de trabajo: 
 
@@ -137,5 +150,6 @@ Implementacion Sobre mi alineado con el mockup
 
 
 # Resultado:
+
 
 # Proximo objetivo:
