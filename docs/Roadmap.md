@@ -13,7 +13,7 @@
     - [x] Navbar 
     - [x] Hero
     - [x] Sobre mi
-    - [ ] Habilidades
+    - [x] Habilidades
     - [ ] Tecnologias
     - [ ] Proyectos
     - [ ] Alfa98

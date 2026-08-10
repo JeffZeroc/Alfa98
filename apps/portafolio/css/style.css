@@ -414,6 +414,129 @@ header{
 }
 
 /* ===========================
+   SKILLS
+=========================== */
+
+.skills{
+
+    padding:6rem 0;
+
+}
+
+.section-heading{
+
+    max-width:650px;
+
+    margin-bottom:3rem;
+
+}
+
+.section-heading h2{
+
+    font-size:2rem;
+
+    line-height:1.25;
+
+    margin-bottom:1rem;
+
+}
+
+.section-heading > p:not(.section-label){
+
+    color:var(--text-light);
+
+    line-height:1.7;
+
+}
+.skills-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3, 1fr);
+
+    gap:1.5rem;
+
+}
+.skill-card{
+
+    padding:2rem;
+
+    background:white;
+
+    border:1px solid var(--border);
+
+    border-radius:var(--radius);
+
+    box-shadow:var(--shadow);
+
+    transition:var(--transition);
+
+}
+.skill-card:hover{
+
+    transform:translateY(-4px);
+
+}
+.skill-icon{
+
+    width:48px;
+
+    height:48px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    margin-bottom:1.5rem;
+
+    border-radius:10px;
+
+    background:#EEF2FF;
+
+    color:var(--primary);
+
+    font-weight:700;
+
+    font-size:1.2rem;
+
+}
+.skill-card h3{
+
+    font-size:1.2rem;
+
+    margin-bottom:.75rem;
+
+}
+.skill-card > p{
+
+    color:var(--text-light);
+
+    line-height:1.6;
+
+    margin-bottom:1.5rem;
+
+}
+.skill-list{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:.5rem;
+
+}
+
+.skill-list li{
+
+    color:var(--text);
+
+    font-size:.95rem;
+
+}
+
+/* ===========================
    RESPONSIVE
 =========================== */
 
@@ -490,5 +613,22 @@ header{
 
     }
 
+    .skills{
+
+        padding:4rem 0;
+
+    }
+
+    .skills-grid{
+
+        grid-template-columns:1fr;
+
+    }
+
+    .section-heading{
+
+        margin-bottom:2rem;
+
+    }
 
 }

@@ -131,7 +131,7 @@ Construir Hero alineado al bakcup
 Implementacion Sobre mi alineado con el mockup
 
 ## Fecha 08/08/2026
-# Tiempo de trabajo: 
+# Tiempo de trabajo: 17 minutos
 
 # Objetivo:
 Creación sobre mi en alineamiento con el mockup
@@ -142,6 +142,19 @@ Creación sobre mi en alineamiento con el mockup
 
 # Proximo objetivo:
 Implementacion de Habilidades alineado al mockup
+
+## Fecha 10/8/2026
+# Tiempo de trabajo: 
+
+# Objetivo:
+Implementacion de la seccion de habilidades alineado al mockup
+
+# Resultado:
+* Implementacion completa de la seccion Habilidades
+* Organizacion del css Skill
+
+# Proximo objetivo:
+Implementacion de la seccion de tecnologias alineado al mockup
 
 ## Fecha 
 # Tiempo de trabajo: 
