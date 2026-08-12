@@ -144,7 +144,7 @@ Creación sobre mi en alineamiento con el mockup
 Implementacion de Habilidades alineado al mockup
 
 ## Fecha 10/8/2026
-# Tiempo de trabajo: 
+# Tiempo de trabajo: 14 minutos
 
 # Objetivo:
 Implementacion de la seccion de habilidades alineado al mockup
@@ -155,6 +155,19 @@ Implementacion de la seccion de habilidades alineado al mockup
 
 # Proximo objetivo:
 Implementacion de la seccion de tecnologias alineado al mockup
+
+## Fecha 11/08/2026
+# Tiempo de trabajo: 15 minutos
+
+# Objetivo:
+Implementacion Tecnologias alineado al mockup
+
+# Resultado:
+* Implementacion completa de la seccion de Tecnologias
+* Organizacion del css Technologies
+
+# Proximo objetivo:
+Implementacion de la seccion de Proyectos alineado con el mockup
 
 ## Fecha 
 # Tiempo de trabajo: 

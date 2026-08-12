@@ -14,7 +14,7 @@
     - [x] Hero
     - [x] Sobre mi
     - [x] Habilidades
-    - [ ] Tecnologias
+    - [x] Tecnologias
     - [ ] Proyectos
     - [ ] Alfa98
     - [ ] Contacto
