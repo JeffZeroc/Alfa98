@@ -15,7 +15,7 @@
     - [x] Sobre mi
     - [x] Habilidades
     - [x] Tecnologias
-    - [ ] Proyectos
+    - [x] Proyectos
     - [ ] Alfa98
     - [ ] Contacto
     - [ ] Footer
