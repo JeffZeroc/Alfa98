@@ -1,4 +1,4 @@
-# Portafolio Profesional - Requisitos (En continua mejora)
+# Portafolio Profesional / Interfaz publica - Requisitos (En continua mejora)
 
 ## Objetivo
 

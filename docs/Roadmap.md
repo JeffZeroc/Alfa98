@@ -5,7 +5,7 @@
 - [x] Visión
 - [x] Estructura del proyecto
 
-## Fase 1 - Portafolio Profesional
+## Fase 1 - Portafolio Profesional / Interfaz publica
 - [x] Definir requisitos
 - [x] Diseñar interfaz
 - [x] Diseñar mockups visual
@@ -16,8 +16,7 @@
     - [x] Habilidades
     - [x] Tecnologias
     - [x] Proyectos
-    - [ ] Alfa98
-    - [ ] Contacto
+    - [x] Contacto
     - [ ] Footer
     - [ ] Responsive
     - [ ] Publicacion
