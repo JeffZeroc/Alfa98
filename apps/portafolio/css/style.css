@@ -1073,6 +1073,182 @@ header{
 
 }
 
+/* ===========================
+   FOOTER
+=========================== */
+
+.footer{
+
+    margin-top:80px;
+
+    padding:40px 0;
+
+    background:#0F172A;
+
+    color:white;
+
+}
+
+.footer-content{
+
+    position:relative;
+
+    display:grid;
+
+    grid-template-columns:1.5fr 1fr 1.5fr;
+
+    align-items:center;
+
+    gap:40px;
+
+}
+
+
+
+/* ===== BRAND ===== */
+
+.footer-brand{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:6px;
+
+}
+
+.footer-logo{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    width:fit-content;
+
+    font-size:16px;
+
+    font-weight:600;
+
+}
+
+.footer-logo span{
+
+    color:var(--primary);
+
+    font-weight:700;
+
+}
+
+.footer-brand p{
+
+    color:#94A3B8;
+
+    font-size:12px;
+
+    line-height:1.5;
+
+}
+
+
+/* ===== NAVEGACIÓN ===== */
+
+.footer-nav{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:24px;
+
+}
+
+.footer-nav a{
+
+    white-space: nowrap;
+    
+    color:#CBD5E1;
+
+    font-size:13px;
+
+    transition:var(--transition);
+
+}
+
+.footer-nav a:hover{
+
+    color:white;
+
+}
+
+
+/* ===== COPYRIGHT ===== */
+
+.footer-copy{
+
+    text-align:right;
+
+}
+
+.footer-copy p{
+
+    color:#94A3B8;
+
+    font-size:12px;
+
+    line-height:1.6;
+
+}
+
+
+/* ===== VOLVER ARRIBA ===== */
+
+/* ===========================
+   BACK TO TOP
+=========================== */
+
+.back-to-top {
+
+    position: fixed;
+
+    right: 2rem;
+    bottom: 2rem;
+
+    width: 48px;
+    height: 48px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: var(--primary);
+    color: white;
+
+    border-radius: 50%;
+
+    box-shadow: var(--shadow);
+
+    z-index: 1000;
+
+    opacity: 0;
+    visibility: hidden;
+
+    transition: var(--transition);
+}
+
+.back-to-top:hover {
+
+    transform: translateY(-3px);
+
+}
+
+.back-to-top.show {
+
+    opacity: 1;
+    visibility: visible;
+
+}
 
 /* ===========================
    RESPONSIVE
@@ -1220,6 +1396,51 @@ header{
 
     }
 
+    .footer{
+
+        margin-top:60px;
+
+        padding:40px 0 30px;
+
+    }
+
+    .footer-content{
+
+        grid-template-columns:1fr;
+
+        gap:28px;
+
+        text-align:center;
+
+    }
+
+    .footer-brand{
+
+        align-items:center;
+
+    }
+
+    .footer-nav{
+
+        flex-wrap:wrap;
+
+        gap:16px 20px;
+
+    }
+
+    .footer-copy{
+
+        text-align:center;
+
+    }
+
+    .back-to-top{
+
+        position:static;
+
+        margin:0 auto;
+
+    }
 }
 
 @media (max-width:480px){
